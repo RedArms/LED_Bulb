@@ -34,7 +34,7 @@ def rgb_rainbow():
             d.set_colour(a,b,c)
             c -= 5
 
-rgb()
+rgb_rainbow()
 
 
 
